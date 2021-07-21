@@ -6,8 +6,8 @@ const help = (prefix) => {
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
    ○ Creador: SamuelGod
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Como instalar el bot: Sigueme en ig y escribeme al +573112621870
+   ○ Instagram: https://www.instagram.com/fr.samuu_/
 
 
 ◉ *NUEVOS COMANDOS*
