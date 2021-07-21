@@ -1,8 +1,8 @@
  /*
-* ShanBot es una creación de shanduy
-* ShanBot no tiene ningun fin de lucro
-* shanduy se reserva todos los derechos de autor
-* © 2021 shanduy, INC.
+* AnnSamBot es una creación de SamuGod
+* SamuGod no tiene ningun fin de lucro
+* SamuGod se reserva todos los derechos de autor
+* © 2021 SamuelGod, INC.
 
 Cualquier copia que utilize mi ApiKey sera dado de baja
 
