@@ -1,10 +1,10 @@
 const version = (prefix, pushname) => {
     return `
-*ѕнαηвσт ву ѕнαη∂υу*
+*AnnSamBot ву SamuelGod*
 
 *Actualizado:* 13 de julio de 2021
 *Versión actual:* 3.1
-*Ofrecida por:* ѕнαη∂υу™
+*Ofrecida por:* SamuelGod™
 
 
 *INFORME*
@@ -15,11 +15,9 @@ Cambiare la apikey pasando un mes o si veo muchos atercados o robos
 Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
 
 
-*BLOG DE SHANBOT*
 
-https://cutt.ly/jmSF2RN
 
-ву ѕнαη∂υу
+ву SamuelGod
 `
 
 }
